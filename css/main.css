@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	font-family: 'Alumni Sans', sans-serif;
+	font-family: 'Berkshire Swash', cursive;
+	font-family: 'Dosis', sans-serif;
+	color: black;
+}
+.col-lg-9 a{
+	color:black;
+}
+.nd{
+	align-items: center;
+	height: 700px;
+}
+.row01{
+	text-align: center;
+}
+.text{
+	margin: 5px 0 20px 0;
+}
